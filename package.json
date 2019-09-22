@@ -18,6 +18,7 @@
     "jest": "^24.9.0",
     "mongodb-memory-server": "^5.2.3",
     "mongoose": "^5.7.1",
+    "node": "^12.10.0",
     "supergoose": "^0.2.6",
     "supertest": "^4.0.2",
     "uuid": "^3.3.3"
